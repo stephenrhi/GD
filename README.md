@@ -1,2 +1,2 @@
-# gyandhan
-Repository for GyanDhan
+# GD
+Repository for GD
